@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emmanuel Tai-Ojuolape
 
 I'm a **.NET Backend Developer** passionate about building clean, scalable, and efficient APIs that solve real-world problems.  
-I recently completed a 6-month intensive training in **.NET development**, and I'm currently working on practical projects to deepen my skills and prepare for global opportunities.
+Currently working on practical projects to deepen my skills and prepare for global opportunities.
 
 ---
 
