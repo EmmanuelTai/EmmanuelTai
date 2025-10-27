@@ -7,9 +7,9 @@ Currently working on practical projects to deepen my skills and prepare for glob
 
 ### 🧠 About Me
 - 💻 Focused on **backend development** using **ASP.NET Core** and **Entity Framework Core**  
-- 🚀 Currently building a **Library Management System API** to showcase practical API design, CRUD operations, and clean architecture  
+- 🚀 Currently building a **Library Management System API** to showcase practical API design and CRUD operations   
 - 🌍 Actively seeking **remote or international internships / junior backend roles**  
-- 🧩 Love learning about system design, microservices, and cloud deployment (Azure, Docker)  
+
 
 ---
 
