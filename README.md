@@ -42,8 +42,7 @@ A RESTful API that manages books, users, and transactions in a library using ASP
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-tai-ojuolape-84a613198)
-)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-tai-ojuolape-84a61319)  
 - ✉️ [Email](emmanueltai000@gmail.com)  
 - 🌍 Portfolio coming soon  
 
